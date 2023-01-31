@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+ul{
+    display: inline-block;
+}
+
+.page{
+    background-color: pink;
+    display: inline-block;
+}
